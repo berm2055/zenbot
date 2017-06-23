@@ -12,3 +12,9 @@ github
 config.js
 config.patch
 data/*
+conf.js
+conf-*
+!conf-sample.js
+sim_result*
+*_test
+backtesting_*
